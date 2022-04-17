@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  border: 3px solid black;
+  width: 20%;
+  margin: auto;
+  background-color: coral;
+  margin-top: 5px;
+  border-radius: 8px;
+}
+
+.inputText{
+  width: 25%;
+  border: 3px solid black;
+  border-radius: 8px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 20px;
+  font-size: large;
+}
+
+.btn{
+ border: 2px solid black;
+ padding: 7px 20px;
+ font-weight: 600;
+ 
+}
